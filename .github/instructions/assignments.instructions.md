@@ -1,5 +1,11 @@
 # Assignment Guidelines
 
+---
+applyTo:
+	- "/assignments/**"
+description: "Standards and template enforcement for assignment folders and READMEs"
+---
+
 This file documents the expected structure and standards for assignment folders used by this repository.
 
 Structure for each assignment:
